@@ -1,0 +1,6 @@
+DB_PORT=3306
+
+HOST=mysql_music
+USERNAME=dev
+PASSWORD=dev
+DATABASE_NAME=music
